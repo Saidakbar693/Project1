@@ -1,0 +1,20 @@
+
+
+
+
+ ul{
+    text-align: center;
+    height: 60px;
+    justify-content: space-around;
+     background-color: black;
+    display: flex;
+    text-decoration: none;
+     list-style-type: none;
+     align-items: center;
+    }
+  
+  .ul li a{
+    text-decoration: none;
+    color: aliceblue;
+  } 
+
